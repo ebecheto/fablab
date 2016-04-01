@@ -4,6 +4,9 @@ __Inkscape__ ==> vectorize to __.dxf__
 ==> __Sketchup__ line and push, to __.stl__ 
 ==> slic3r to __.gcode__ ==> 3D printed stuff
 
+![synoptique timeline](./frize.png)
+
+
 #. find a black and white coloring picture
  Possibly remove the unnecessary element with you prefered picture editor (mine : Paint.net : simple efficient). 
  Possibly add a line to surround too thin lines like arms of a fellow pic.
