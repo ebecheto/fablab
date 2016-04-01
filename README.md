@@ -1,5 +1,8 @@
 # fablab
 example for making a cookie 'pastry cutter' from black and white picture.
+__Inkscape__ ==> vectorize to __.dxf__ 
+==> __Sketchup__ line and push, to __.stl__ 
+==> slic3r to __.gcode__ ==> 3D printed stuff
 
 #. find a black and white coloring picture
  Possibly remove the unnecessary element with you prefered picture editor (mine : Paint.net : simple efficient). 
