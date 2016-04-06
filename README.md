@@ -36,3 +36,6 @@ Save as .dxf
     go behind the model to verify that th bottom shape is not missing (possible if you have deleted some push surfaces, or 'pit shape' that was not separated from the main bottom shape). If so, then, line again, to reform the missing shapes
  When you ars satisfied, using the (Sketchup->Window->extensionWarehose->Search : ) SketchUp STL plugin. {_TODO_: File->export STL} (dunno why it's not integratate, into the File->SaveAs .stl possiblilty, that's another discussion)
  then try to import the .stl with slic3r or kisslicer
+
+# First RESULT :
+![mini SVEN](./myFirst_PLA.jpg)
